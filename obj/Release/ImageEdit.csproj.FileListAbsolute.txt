@@ -1,0 +1,10 @@
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\bin\Release\ImageEdit.exe.config
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\bin\Release\ImageEdit.exe
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\bin\Release\ImageEdit.pdb
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.csprojAssemblyReference.cache
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.ImageEditForm.resources
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.Properties.Resources.resources
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.csproj.GenerateResource.cache
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.csproj.CoreCompileInputs.cache
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.exe
+C:\Users\lukaj\OneDrive\VSProjects\ImageEdit\ImageEdit\obj\Release\ImageEdit.pdb
